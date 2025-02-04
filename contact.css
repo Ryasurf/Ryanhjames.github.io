@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    height: 100vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    display: flex; /* Flexbox layout for independent sections */
+    flex-direction: row; /* Align sections horizontally */
+    justify-content: space-between; /* Add space between sections */
+    align-items: center; /* Center items vertically */
+    padding: 2rem; /* Add some space around the body */
+}
+
